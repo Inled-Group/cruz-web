@@ -1,0 +1,55 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+        }
+        .header {
+            background-color: #9265cb;
+            color: white;
+            padding: 60px 20px;
+            font-size: 2.5em;
+            font-weight: bold;
+        }
+        .container {
+            padding: 20px;
+            max-width: 900px;
+            margin: 20px auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        h2, h1 {
+            color: #9265cb;
+            margin-bottom: 15px;
+        }
+        .platform-icons img {
+            width: 80px;
+            margin: 0 15px;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #9265cb;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+            margin-top: 30px;
+        }
+        .footer {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: #9265cb;
+            color: white;
+            font-size: 0.9em;
+        }
+        img {
+            max-width: 40%;
+            max-height: auto;
+        }
